@@ -1,0 +1,14 @@
+{
+    "window_size": [
+        "350",
+        "450"
+    ],
+    "rainbow_multipliers": [
+        "0.1",
+        "0.8",
+        "0.9"
+    ],
+    "tab_length": "2",
+    "blueprint_name": "Generated",
+    "add_block_to_empty_lines": true
+}
